@@ -15,6 +15,8 @@ asynchronous_synchronous.m: Illustrates the spatiotemporal evolution of podosome
 
 fisher.m: Calculates the Fisher information to demonstrate the precision of podosome mechanosensing on substrates of varying stiffness.
 
+fisher_comparison.m: Calculates the Fisher information to consider the readout noise.
+
 waveform_encoding.m: Reveals how podosome oscillations encode substrate stiffness through both waveform shape and proximity to the Hopf bifurcation.
 
 waveform_criticality_efficiency.m: Explores how the mechanical environment influences podosome communication efficiency.
